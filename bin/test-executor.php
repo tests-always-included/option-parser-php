@@ -37,7 +37,7 @@ function display($label, $value, $previousIndent) {
     }
 }
 
-require_once(__DIR__ . '/../php/OptionParser.class.php');
+require_once(__DIR__ . '/../src/OptionParser.class.php');
 $parser = new OptionParser();
 $parser->programName('test-executor');
 
