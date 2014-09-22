@@ -1,0 +1,31 @@
+{
+	"name": "tests-always-included/option-parser",
+	"type": "library",
+	"description": "Command-line option parser similar to getopt",
+	"keywords": [
+		"command-line",
+		"command",
+		"line",
+		"option",
+		"parser",
+		"flag",
+		"flags",
+		"getopt"
+	],
+    "autoload": {
+        "psr-4": {
+            "TAI\\": "src/"
+        }
+    },
+	"homepage": "https://github.com/tests-always-included/option-parser-php/",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Tyler Akins",
+			"email": "fidian@rumkin.com"
+		}
+	],
+	"require": {
+		"php": ">=5.3"
+	}
+}
