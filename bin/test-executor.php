@@ -37,8 +37,8 @@ function display($label, $value, $previousIndent) {
     }
 }
 
-require_once(__DIR__ . '/../src/OptionParser.class.php');
-$parser = new OptionParser();
+require_once(__DIR__ . '/../src/TAI/OptionParser.class.php');
+$parser = new TAI\OptionParser();
 $parser->programName('test-executor');
 
 $parser->addOption('b', 'boolean', 'Boolean flag')

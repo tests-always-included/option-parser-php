@@ -1,5 +1,7 @@
 <?php
 
+namespace TAI;
+
 class OptionParameter {
 	const ARGUMENT_NONE = 0;
 	const ARGUMENT_REQUIRED = 1;

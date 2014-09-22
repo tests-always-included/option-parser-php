@@ -1,5 +1,7 @@
 <?php
 
+namespace TAI;
+
 require_once(__DIR__ . '/OptionParameter.class.php');
 
 class OptionParser {
