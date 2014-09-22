@@ -167,4 +167,4 @@ From there you can run the tests.  Start in the root of this repository and run 
 [OptionParameter]: option-parameter.md
 [OptionParser]: option-parser.md
 [Travis CI]: http://travis-ci.org/tests-always-included/option-parser-php
-[travis-image]: https://secure.travis-ci.org/tests-always-included/option-parser-php
+[travis-image]: https://secure.travis-ci.org/tests-always-included/option-parser-php.png
